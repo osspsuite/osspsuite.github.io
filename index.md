@@ -9,6 +9,7 @@ categories: announcement
 ---
 ## 27 October 2018
 [notary-server-rails][gh-nsr]
+
 [notary-client-android][gh-nca]
 
 ## 26 October 2018
