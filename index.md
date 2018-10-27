@@ -27,4 +27,4 @@ on my shopping list.
 [the-twoot]: https://mobile.twitter.com/bmdube/status/1054449168725360641
 [org-twitter]: https://twitter.com/osspsuite
 [gh-nsr]: https://github.com/osspsuite/notary-server-rails
-[gh-nca]: https://github.com/osspsuite/notary-client-rails
+[gh-nca]: https://github.com/osspsuite/notary-client-android
