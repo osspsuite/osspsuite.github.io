@@ -8,6 +8,12 @@ date:   2018-10-26 14:40:30 -0500
 categories: announcement
 ---
 ## 27 October 2018
+What I'm thinking is to create services based on Docker images, for easy self-hosting. There are options
+in this space other than Docker, but Docker is what I know at the moment. If you're set up for OpenShift
+or something else but would like to participate, then please sing out. I don't yet know what it would take
+to support both, but I'm open to find out.
+
+## 27 October 2018
 [notary-server-rails][gh-nsr]
 
 [notary-client-android][gh-nca]
