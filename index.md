@@ -30,6 +30,8 @@ alternative to things like Google's G Suite.
 The first service I'm going to work on is an alternative to Google Keep. Google doesn't need to know what's
 on my shopping list.
 
+<a class="twitter-timeline" href="https://twitter.com/osspsuite?ref_src=twsrc%5Etfw">Tweets by osspsuite</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [the-twoot]: https://mobile.twitter.com/bmdube/status/1054449168725360641
 [org-twitter]: https://twitter.com/osspsuite
 [gh-nsr]: https://github.com/osspsuite/notary-server-rails
