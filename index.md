@@ -8,9 +8,9 @@ date:   2018-10-26 14:40:30 -0500
 categories: announcement
 ---
 ## 18 Jan 2019
-So many people are asking <sup>who?</sup>, is the project dead? what's going on?
+So many people are asking, is the project dead? what's going on?
 
-No, it's not dead yet <sup>proof?</sup>. Things are busy. I'm reorganizing my own servers and infrastructure
+No, it's not dead yet. Things are busy. I'm reorganizing my own servers and infrastructure
 at the moment.
 
 ## 27 October 2018
