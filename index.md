@@ -7,6 +7,12 @@ title:  "Welcome to OSSPSuite"
 date:   2018-10-26 14:40:30 -0500
 categories: announcement
 ---
+## 18 Jan 2019
+So many people are asking <sup>who?</sup>, is the project dead? what's going on?
+
+No, it's not dead yet <sup>proof?</sup>. Things are busy. I'm reorganizing my own servers and infrastructure
+at the moment.
+
 ## 27 October 2018
 What I'm thinking is to create services based on Docker images, for easy self-hosting. There are options
 in this space other than Docker, but Docker is what I know at the moment. If you're set up for OpenShift
